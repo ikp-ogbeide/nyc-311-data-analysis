@@ -1,0 +1,5 @@
+# NYC 311 incident call data analysis
+
+In this project, I analyzed the year 2014 NYC 311 incident call data that's available on [NYC Open data](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9) platform.  311 is a special telephone number supported in many communities in Canada and the United States. The number provides access to non-emergency municipal services. 311 creates a central hub for constituents to be able to access a variety of city services. The number 311 is intended in part to divert routine inquiries and non-urgent community concerns from the 911 number which is reserved for emergency service.
+
+Using the data, I did some exploratory visualization and analysis to gain insights into the type of complaints and number of complaints reported through 311 and how it varies through the year.
